@@ -1,0 +1,40 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_launch (0.0.1):
+    - Flutter
+  - share (0.5.2):
+    - Flutter
+  - url_launcher (0.0.1):
+    - Flutter
+  - webview_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_launch (from `.symlinks/plugins/flutter_launch/ios`)
+  - share (from `.symlinks/plugins/share/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - webview_flutter (from `.symlinks/plugins/webview_flutter/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_launch:
+    :path: ".symlinks/plugins/flutter_launch/ios"
+  share:
+    :path: ".symlinks/plugins/share/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  webview_flutter:
+    :path: ".symlinks/plugins/webview_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_launch: 9da969a4006ece511a418f709f1ce28969b1e563
+  share: bae0a282aab4483288913fc4dc0b935d4b491f2e
+  url_launcher: a1c0cc845906122c4784c542523d8cacbded5626
+  webview_flutter: db3aba222b23e4dc432e0c5882834123dc50ff9f
+
+PODFILE CHECKSUM: 552a395d46075d807a076bb8f1625128af26b70e
+
+COCOAPODS: 1.8.4
